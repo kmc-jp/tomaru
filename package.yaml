@@ -4,7 +4,7 @@ github:              "kmc-jp/tomaru"
 license:             MIT
 author:              "kmc-jp"
 maintainer:          "hatsu@kmc.gr.jp"
-copyright:           "2020 Author name here"
+copyright:           "kmc-jp"
 
 extra-source-files:
 - README.md

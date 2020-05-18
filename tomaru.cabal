@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 92472c0e7c008e102336f8124947430d1df25818c38c9c13c592adaa416cdd8f
+-- hash: ac5318374b270935a03cd2fba853330612988e48c7356809f2de2a9c00a6d573
 
 name:           tomaru
 version:        0.1.0.0
@@ -13,8 +13,8 @@ homepage:       https://github.com/kmc-jp/tomaru#readme
 bug-reports:    https://github.com/kmc-jp/tomaru/issues
 author:         kmc-jp
 maintainer:     hatsu@kmc.gr.jp
-copyright:      2020 Author name here
-license:        BSD3
+copyright:      kmc-jp
+license:        MIT
 license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
