@@ -11,8 +11,8 @@ version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/kmc-jp/tomaru#readme>
 homepage:       https://github.com/kmc-jp/tomaru#readme
 bug-reports:    https://github.com/kmc-jp/tomaru/issues
-author:         Author name here
-maintainer:     example@example.com
+author:         kmc-jp
+maintainer:     hatsu@kmc.gr.jp
 copyright:      2020 Author name here
 license:        BSD3
 license-file:   LICENSE
